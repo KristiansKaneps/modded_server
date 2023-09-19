@@ -1,0 +1,26 @@
+enableTooltips = true
+#Range: 0.0 ~ Infinity
+ironEnchantPower = 2.0
+#Range: 0.0 ~ Infinity
+goldenEnchantPower = 3.0
+#Range: 0.0 ~ Infinity
+diamondEnchantPower = 5.0
+#Range: 0.0 ~ Infinity
+emeraldEnchantPower = 6.0
+#Range: 0.0 ~ Infinity
+obsidianEnchantPower = 7.0
+#Range: 0.0 ~ Infinity
+netheriteEnchantPower = 10.0
+#Range: 0.0 ~ Infinity
+copperEnchantPower = 1.5
+#Range: 0.0 ~ Infinity
+amethystEnchantPower = 2.5
+#Range: 0.0 ~ Infinity
+cryingObsidianEnchantPower = 8.0
+#Range: 0.0 ~ Infinity
+enderiteEnchantPower = 12.0
+#Range: 0.0 ~ Infinity
+steelEnchantPower = 3.0
+#Range: 0.0 ~ Infinity
+bronzeEnchantPower = 4.0
+
