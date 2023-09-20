@@ -16,3 +16,7 @@ debug.bat
 debug.sh
 
 patchouli_books/
+config/artifacts/
+config/forgeendertech/
+config/bettervillage_1.properties
+config/libraryferret_1.properties
